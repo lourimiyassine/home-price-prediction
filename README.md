@@ -2,17 +2,16 @@
 
 # 🔧 Setup Instructions
 ## 1-Clone the repository:
-```bash
+`bash`
 git clone https://github.com/yourusername/BengaluruHomePricePredictor.git  
-cd BengaluruHomePricePredictor
-
+cd BengaluruHomePricePredictor 
 
 ## 2-Install dependencies:
-```bash
-pip install -r requirements.txt ```
+`bash`
+pip install -r requirements.txt 
 ## 3-Run the Flask app:
-```bash
-python src/app.py  ```
+`bash`
+python src/app.py  
 ## 4-Test the API using Postman or any HTTP client.
 
 
