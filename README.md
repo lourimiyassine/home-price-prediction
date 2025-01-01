@@ -2,9 +2,8 @@
 
 # 🔧 Setup Instructions
 ## 1-Clone the repository:
-`bash`
-git clone https://github.com/yourusername/BengaluruHomePricePredictor.git  
-cd BengaluruHomePricePredictor 
+`bash` git clone https://github.com/lourimiyassine/home-price-prediction.git  
+`bash` cd BengaluruHomePricePredictor 
 
 ## 2-Install dependencies:
 `bash`
