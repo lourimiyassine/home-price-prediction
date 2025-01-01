@@ -6,8 +6,11 @@
 The Bengaluru Home Price Predictor is a full-stack MLOps project designed to predict property prices based on location, size, number of rooms, and other key features. The project includes:
 
 ◾ Data Preprocessing and Feature Engineering for high-quality training data.
+
 ◾ Model Training and Tuning using advanced algorithms and optimization techniques.
+
 ◾ API Deployment for real-time predictions accessible through a simple front-end interface.
+
 This project serves as a stepping stone toward creating impactful, real-world AI solutions.
 
 
